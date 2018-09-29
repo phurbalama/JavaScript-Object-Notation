@@ -1,0 +1,64 @@
+games =
+[
+    {
+      "name": "League of Legends",
+      "platform":"pc",
+      "genre":"Multiplayer onlien battle arena",
+      "awards":4
+    },
+    {
+      "name": "Age of Empires III",
+      "platform":"Windows ",
+      "genre":"Real-time Strategy",
+      "awards":0
+    },
+    {
+      "name": "StarCraft II",
+      "platform":"pc",
+      "genre":"Real-time Strategy",
+      "awards":4
+    },
+    {
+      "name": "Call of Duty: Black Ops II",
+      "platform":"pc and console",
+      "genre":"First-person Shooter",
+      "awards":4
+    },
+    {
+      "name": "Grand Theft Auto: San Andreas",
+      "platform":"pc and conssole",
+      "genre":"action-Adventure",
+      "awards":9
+
+    },
+    {
+      "name": "Rumble Fighter",
+      "platform":"Windows ",
+      "genre":"Action",
+      "awards":0
+    },
+    {
+      "name": "Fotrnite",
+      "platform":"pc and console",
+      "genre":"Survival",
+      "awards":0
+    },
+    {
+      "name": "Overwatch",
+      "platform":"pc and console",
+      "genre":"First Person Shooter",
+      "awards":8
+    },
+    {
+      "name": "Super Mario Bros",
+      "platform":"Nitendo",
+      "genre":"Platformer",
+      "awards":0
+    },
+    {
+      "name": "Pokemon Emrald",
+      "platform":"Nitendo",
+      "genre":"Role-playing video game",
+      "awards":0
+    }
+]
